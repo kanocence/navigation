@@ -1,0 +1,44 @@
+{
+  "id": "2993167",
+  "name": "navi",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1347463",
+      "name": "baidu",
+      "font_class": "baidu",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "4936951",
+      "name": "google",
+      "font_class": "google",
+      "unicode": "e87a",
+      "unicode_decimal": 59514
+    },
+    {
+      "icon_id": "4937000",
+      "name": "github-fill",
+      "font_class": "github-fill",
+      "unicode": "e885",
+      "unicode_decimal": 59525
+    },
+    {
+      "icon_id": "15378180",
+      "name": "bing",
+      "font_class": "bing",
+      "unicode": "eb4c",
+      "unicode_decimal": 60236
+    },
+    {
+      "icon_id": "20113866",
+      "name": "bxl-baidu",
+      "font_class": "bxl-baidu",
+      "unicode": "e6f0",
+      "unicode_decimal": 59120
+    }
+  ]
+}
