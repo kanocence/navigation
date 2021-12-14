@@ -1,24 +1,11 @@
 # navigation
 
-## Project setup
-```
-pnpm install
-```
+Navigation of the browser home page.
 
-### Compiles and hot-reloads for development
-```
-pnpm run serve
-```
+A project to practice vue.
 
-### Compiles and minifies for production
-```
-pnpm run build
-```
+Simple structure.
 
-### Lints and fixes files
-```
-pnpm run lint
-```
+Easy to use.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![screen-capture](./docs/sc.png)
